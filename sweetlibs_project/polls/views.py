@@ -1,7 +1,8 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
-def index(request, num="1"):
-     return render(request, 'polls/post_list.html', {})
+def index(request):
+     return render(request, 'polls/index.html', {})
+
 
 # def index (request):
 #     if first % 3 == 0:

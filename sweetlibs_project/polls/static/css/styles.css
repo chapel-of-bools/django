@@ -1,0 +1,19 @@
+html{
+  color: white;
+  background-image: url("http://www.quoteslike.com/images/1018/django-wallpaper-django-unchained-wallpaper-34868920-fanpop-87sr4B-quote.jpg");
+  background-size: 1500px;
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  text-shadow: 0px 10px 5px black;
+}
+img{
+  display: block;
+  margin: auto;
+  border: 5px solid white;
+  border-radius: 10px;
+  box-shadow: 0px 10px 5px black;
+}
+h1{
+  font-size: 50px;
+  margin: 0px;
+}
